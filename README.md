@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi bro
 
-<!--
-**3052971491/3052971491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 人生惟一的不幸就是自己的无能。
+>
+> **王小波** - _关于幽闭型小说_
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**我叫1491，这是我的代码仓库.**
+
+{% cq %}
+千禧年男🚹
+升级打怪 4 年有余，医疗器械行业 MES 攻城狮一枚，致力于前端领域的钻研
+音乐 - 游戏 - 旅游 - 美食 - 追剧
+处女座 & 天生宅 & 懒癌晚期 & 重度拖延
+{% endcq %}
+
+您可以从[我的主页](https://yuanjunjie.top/)获得更多信息，但[电子邮件](3052971491@qq.com)将是与我联系的最快方式。
+
+
+I wish you enjoy your codes and fuck your bugs.
+
+就这些，很高兴见到你。😉
